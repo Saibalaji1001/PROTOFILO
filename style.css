@@ -1,0 +1,71 @@
+/* #count1{
+    display:block;
+    text-align: center;
+    font-size: 10em;
+    font-family:Arial, Helvetica, sans-serif ;
+    }
+#btncontainer{
+    text-align: center;
+}
+.buttons{
+    padding-left: 10px 20px;
+     font-size: 1.5em;
+    color: black;
+    background-color:rgb(9, 139, 233);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons.buttons:hover{
+   background-color:aqua ;
+} */
+ /* body{
+    text-align: center;
+    font-style:bold;
+ }
+ #button{
+    padding: 50px, 50px;
+    font-size: 3em;
+    border-radius: 10px;
+    }
+.s{
+font-size: 3em;
+} */
+ /* body{
+    text-align: center;
+    padding: 100px , 5px;
+    background-color:aqua;
+ }
+ .sai {
+    display: flex;
+    justify-content: center;  
+    align-items: flex-end;
+    height: 200px;        
+    padding: 40px;
+  
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+.sathi{
+    background-color: rgb(224, 235, 235);
+    padding: 5px;
+}
+
+button {
+    padding: 10px 30px;
+    font-size: 20x;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+button:hover{
+  color: black;  
+}
+.yash{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3em;
+} */
